@@ -20,4 +20,4 @@ coffeescript
 stylus
 mquandalle:jade
 accounts-password
-iron:router
+kadira:flow-router
