@@ -17,7 +17,8 @@ standard-minifiers      # JS/CSS minifiers run for production mode
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 coffeescript
-stylus
 mquandalle:jade
 accounts-password
 kadira:flow-router
+juliancwirko:s-grid
+kadira:blaze-layout
