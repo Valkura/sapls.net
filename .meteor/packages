@@ -19,6 +19,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 coffeescript
 mquandalle:jade
 accounts-password
-kadira:flow-router
 juliancwirko:s-grid
-kadira:blaze-layout
+iron:router
