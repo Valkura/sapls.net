@@ -1,0 +1,2 @@
+FlowRouter.route '/',
+	name: 'home'

@@ -1,0 +1,1 @@
+@Sapls = new Mongo.Collection "sapls"
