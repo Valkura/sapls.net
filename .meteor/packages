@@ -20,4 +20,5 @@ coffeescript
 mquandalle:jade
 accounts-password
 juliancwirko:s-grid
-iron:router
+kadira:blaze-layout
+kadira:flow-router
