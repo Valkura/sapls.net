@@ -1,4 +1,4 @@
 FlowRouter.route '/',
 	name: 'home'
 	action: ->
-		BlazeLayout.render 'appLayout', header: 'header', main: 'home'
+		BlazeLayout.render 'appLayout', header: 'header', sidebar: 'sidebar', main: 'home'
